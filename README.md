@@ -25,7 +25,7 @@ This is a frontend-only Paytm-inspired website clone built using **HTML and CSS*
 
 ## 📸 Preview
 
-![Preview Screenshot](https://via.placeholder.com/800x400.png?text=Paytm+Clone+UI)
+![Preview Screenshot(http://127.0.0.1:5500/Project/index.html)
 
 > This is a static front-end project and does not include backend functionality or actual transactions.
 
